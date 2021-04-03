@@ -11,8 +11,6 @@ I am Raju. I am from Chandigarh and currently doing my B.Tech from Chandigarh Co
 * [Ecommerce site Name:-Mysite](http://raju2152.pythonanywhere.com/shop/)
 * [City Weather Finder Web page (from OpenWeather API)](https://github.com/rajukumar2152/City-Weather-Finder-)
 * [blog](https://github.com/rajukumar2152/ )  
-* [Website for NGO (In Development Phase)](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
-* [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
 
 ## ⚡ Technologies 
 - Backend development using **Python Django**
