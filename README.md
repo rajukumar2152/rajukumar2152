@@ -17,6 +17,7 @@ I am Raju. I am from Chandigarh and currently doing my B.Tech from Chandigarh Co
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - Data Structure and Algorithm using C++
 - Git and Git-Hub
+- DBMS (SQL)
 - React(beginner)
 
 ## 👋 Reach out to me 
