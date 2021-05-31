@@ -8,9 +8,9 @@
 I am Raju. I am from Chandigarh and currently doing my B.Tech from Chandigarh College of Engineering and Tech. sector 26 Chandigarh(CCET-26) 🏫.I love to do problem solving ,do development and open to learning new technologies.
 
 ## 💻 Projects
-* [Ecommerce site Name:-Mysite](http://raju2152.pythonanywhere.com/shop/)
-* [City Weather Finder Web page (from OpenWeather API)](https://github.com/rajukumar2152/City-Weather-Finder-)
-* [blog](https://github.com/rajukumar2152/ )  
+* [Ecommerce site Name:-Mysite](https://mysite360.herokuapp.com/shop/)
+* [City Weather Finder Web page (from OpenWeather API)](https://city-weather-finder-page.herokuapp.com/)
+* [blog](https://rajublog.herokuapp.com/)  
 
 ## ⚡ Technologies 
 - Backend development using **Python Django**
